@@ -13,16 +13,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="340">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
-                <marker date="1570035941701" expanded="true" signature="6:100" ph="..." />
-                <marker date="1570035941701" expanded="true" signature="143:664" ph="{...}" />
-                <marker date="1570035941701" expanded="true" signature="195:252" ph="{...}" />
-                <marker date="1570035941701" expanded="true" signature="271:662" ph="{...}" />
-                <marker date="1570035941701" expanded="true" signature="318:656" ph="{...}" />
-                <marker date="1570035941701" expanded="true" signature="365:646" ph="{...}" />
-                <marker date="1570035941701" expanded="true" signature="544:632" ph="{...}" />
+                <marker date="1570039334271" expanded="true" signature="6:100" ph="..." />
+                <marker date="1570039334271" expanded="true" signature="143:685" ph="{...}" />
+                <marker date="1570039334271" expanded="true" signature="202:266" ph="{...}" />
+                <marker date="1570039334271" expanded="true" signature="285:683" ph="{...}" />
+                <marker date="1570039334271" expanded="true" signature="332:677" ph="{...}" />
+                <marker date="1570039334271" expanded="true" signature="379:667" ph="{...}" />
+                <marker date="1570039334271" expanded="true" signature="558:653" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,25 +33,33 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-17" />
     <option name="y" value="-18" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -102,12 +110,13 @@
       <option name="presentableId" value="Default" />
       <updated>1570036100769</updated>
       <workItem from="1570036108722" duration="2092000" />
-      <workItem from="1570038470587" duration="245000" />
+      <workItem from="1570038470587" duration="921000" />
+      <workItem from="1570039530538" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2337000" />
+    <option name="totallyTimeSpent" value="3257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -119,10 +128,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -135,7 +143,7 @@
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Unity" order="10" weight="0.32942432" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32942432" />
       <window_info anchor="bottom" id="Terminal" order="13" />
@@ -165,16 +173,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="340">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
-            <marker date="1570035941701" expanded="true" signature="6:100" ph="..." />
-            <marker date="1570035941701" expanded="true" signature="143:664" ph="{...}" />
-            <marker date="1570035941701" expanded="true" signature="195:252" ph="{...}" />
-            <marker date="1570035941701" expanded="true" signature="271:662" ph="{...}" />
-            <marker date="1570035941701" expanded="true" signature="318:656" ph="{...}" />
-            <marker date="1570035941701" expanded="true" signature="365:646" ph="{...}" />
-            <marker date="1570035941701" expanded="true" signature="544:632" ph="{...}" />
+            <marker date="1570039334271" expanded="true" signature="6:100" ph="..." />
+            <marker date="1570039334271" expanded="true" signature="143:685" ph="{...}" />
+            <marker date="1570039334271" expanded="true" signature="202:266" ph="{...}" />
+            <marker date="1570039334271" expanded="true" signature="285:683" ph="{...}" />
+            <marker date="1570039334271" expanded="true" signature="332:677" ph="{...}" />
+            <marker date="1570039334271" expanded="true" signature="379:667" ph="{...}" />
+            <marker date="1570039334271" expanded="true" signature="558:653" ph="{...}" />
           </folding>
         </state>
       </provider>
